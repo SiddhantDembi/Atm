@@ -34,3 +34,7 @@ Welcome to the ATM project! This project simulates a simple ATM system where use
 ## Database
 
 This project uses an SQLite database named atm.db to store user information. The database contains a table named info with columns for username, password, and balance.
+
+## Demo
+![image](https://github.com/SiddhantDembi/Atm/assets/106478699/60b839c6-d948-41b1-9982-4b2c9fe924a2)
+
