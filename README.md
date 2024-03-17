@@ -19,7 +19,7 @@ Welcome to the ATM project! This project simulates a simple ATM system where use
    git clone https://github.com/yourusername/atm-project.git
    ```
    
-2. Install the required dependencies:
+3. Install the required dependencies:
 
   ```bash
    pip install -r requirements.txt
