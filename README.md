@@ -12,21 +12,15 @@ Welcome to the ATM project! This project simulates a simple ATM system where use
 - **Logout**: Users can logout from their account.
 
 ## Installation
-
 1. Clone the repository:
-
    ```bash
    git clone https://github.com/yourusername/atm-project.git
    ```
-   
-3. Install the required dependencies:
-
+2. Install the required dependencies:
   ```bash
    pip install -r requirements.txt
    ```
-
 3. Run the app.py file:
-
   ```bash
    python app.py
    ```
